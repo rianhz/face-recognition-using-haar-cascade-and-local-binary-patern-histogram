@@ -1,0 +1,5 @@
+- make folder called "data" here , that use to save the image from captured face.
+- make sure turn on your xampp to connect sql.
+- costumize your database dan table on sql
+- compare the name database and table on the code with your database and table on sql, it must be same.
+then enjoy.
